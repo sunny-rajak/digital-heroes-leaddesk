@@ -3,7 +3,7 @@ import axios from "axios";
 
 const API = axios.create({
   // We will change this to your production URL later
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://leaddesk-api.onrender.com",
 });
 
 // Intercept requests to attach the JWT token if it exists
