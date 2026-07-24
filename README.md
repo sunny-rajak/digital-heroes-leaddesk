@@ -4,6 +4,15 @@ A full-stack MERN application designed for capturing client inquiries and managi
 
 ---
 
+## 🌐 Live Demo & Test Credentials
+
+- **Public Form:** https://digital-heroes-leaddesk.vercel.app
+- **Admin Dashboard:** https://digital-heroes-leaddesk.vercel.app/admin
+- **Admin Username:** `admin`
+- **Admin Password:** `password123`
+
+---
+
 ## 🚀 Features
 
 - **Public Landing Page:** A responsive, dark-mode-optimized form for potential clients to submit project inquiries.
